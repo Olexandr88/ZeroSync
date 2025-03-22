@@ -13,7 +13,7 @@
 <br/>
 
 [![GitHub Workflow Status](https://github.com/ZeroSync/ZeroSync/actions/workflows/CI.yml/badge.svg)](https://github.com/ZeroSync/ZeroSync/actions/workflows/CI.yml)
-[![Stale](https://github.com/ZeroSync/ZeroSync/actions/workflows/stale.yml/badge.svg)](https://github.com/ZeroSync/ZeroSync/actions/workflows/stale.yml/badge.svg)
+[![Stale](https://github.com/ZeroSync/ZeroSync/actions/workflows/stale.yml/badge.svg)](https://github.com/ZeroSync/ZeroSync/actions/workflows/stale.yml)
 [![Project license](https://img.shields.io/github/license/ZeroSync/ZeroSync.svg)](LICENSE)
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?)](https://github.com/ZeroSync/ZeroSync/issues)
 [![GitHub Repo stars](https://img.shields.io/github/stars/ZeroSync/ZeroSync?style=social)](https://github.com/ZeroSync/ZeroSync/stargazers)
